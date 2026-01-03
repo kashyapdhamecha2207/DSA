@@ -43,7 +43,7 @@ int binaryToDec(int binaryNum){
         pow *= 2;
     }
 
-    return ans;       // 50
+    return ans;       // 
 }
 
 int main(){
