@@ -1,6 +1,10 @@
 // Bitwise & , | , ^ (XOR)
 
 
+
+
+
+
 // #include <iostream>
 // using namespace std;
 
@@ -33,6 +37,11 @@
 
 
 
+
+
+
+
+
 // Operator Precendence
 
 // #include <iostream>
@@ -52,14 +61,14 @@
 // 4 bytes = 32 bites
 
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main(){
+// int main(){
     
-    cout << sizeof(int) << endl;
-    cout << sizeof(long int) << endl;
-    cout << sizeof(short int) << endl;
-    cout << sizeof(long long) << endl;
-    return 0;
-}
+//     cout << sizeof(int) << endl;
+//     cout << sizeof(long int) << endl;
+//     cout << sizeof(short int) << endl;
+//     cout << sizeof(long long) << endl;
+//     return 0;
+// }
