@@ -28,7 +28,7 @@
 // static memory allocation in stack
 // Dynamic memory allocation in heap
 
-
+ 
 
 #include <iostream>
 #include <vector>
