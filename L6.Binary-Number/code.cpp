@@ -21,10 +21,10 @@
 //     cout << decToBinary(decNum) << endl;
 //     cout << "1 to 10 binary\n";
 //     for(int i =1; i<=10 ; i++){
-//         cout << decToBinary(i) <<endl;
+//         cout << decToBinary(i) << endl;
 //     }
 
-//     return 0;    
+//     return 0;
 // };
 
 

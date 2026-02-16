@@ -1,9 +1,6 @@
 // vector fuctions
 
 
-
-
-
 // #include <iostream>
 // #include <vector>
 // using namespace std;
@@ -32,8 +29,8 @@
 // static memory allocation in stack
 // Dynamic memory allocation in heap
 
- 
- 
+
+
 
 #include <iostream>
 #include <vector>
